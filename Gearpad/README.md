@@ -10,7 +10,9 @@ Gear80 is a 20% korean 천지인 keyboard based on the rp2040.
   <img src="img/gearpad_02.jpg" style="width: 56%;"/>
 </p>
 
-
+<p align="center">
+  <img src="img/case_01.png" style="width: 98%;"/>
+</p>
 
 <br/><br/>
 
