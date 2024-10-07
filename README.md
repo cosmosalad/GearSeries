@@ -1,3 +1,5 @@
+[자작 과정(kr)](https://blog.naver.com/cosmosalad/223262540878)<br/><br/>
+
 # Gear Keyboards<br/>
 Gear Keyboards is based on the rp2040.
 
