@@ -51,7 +51,16 @@ Gear Keyboards is based on the rp2040.
 ## Gearpad<br/>
 [Gearpad](https://github.com/cosmosalad/GearSeries/tree/main/Gearpad)<br/>
 
+<p align="center">
+  <img src="Gearpad/img/gearpad_01.jpg" style="width: 41%;"/>  
+  <img src="Gearpad/img/gearpad_02.jpg" style="width: 56%;"/>
+</p>
 
+<p align="center">
+  <a href="https://youtube.com/embed/IebGGBsth08?feature=shared">
+    <img src="http://img.youtube.com/vi/IebGGBsth08/0.jpg" alt="gear80_full foam" style=width: 46%>
+  </a>
+</p>
 
 
 
