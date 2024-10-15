@@ -1,6 +1,6 @@
 # gearnumpad
 
-![gearnumpad](imgur.com image replace me!)
+![gearpad](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
 
