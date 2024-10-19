@@ -1,12 +1,64 @@
 /* SPDX-License-Identifier: GPL-2.0-or-later */
 
 #include QMK_KEYBOARD_H
+#include "vial.h"
+#include "dynamic_keymap.h"
 
 enum custom_keycodes{
 	IN = QK_KB_0,
 	ARAE_A,
 	JI
 };
+
+#ifdef VIAL_ENABLE
+void keyboard_post_init_user(void) {
+    struct {
+        uint8_t index;
+        vial_tap_dance_entry_t entry;
+    } td_entries[] = {
+        {0, {KC_R, RSFT(KC_R), KC_Z, KC_NO, 200}},	//≈«1:§° , ≈«2:§ª , »¶µÂ:§¢
+        {1, {KC_S, KC_NO, KC_F, KC_NO, 200}},	//≈«1:§§ , ≈«2:§©
+        {2, {KC_E, RSFT(KC_E), KC_X, KC_NO, 200}},	//≈«1:§ß , ≈«2:§º , »¶µÂ:§®
+        {3, {KC_Q, RSFT(KC_Q), KC_V, KC_NO, 200}},	//≈«1:§≤ , ≈«2:§Ω , »¶µÂ:§≥
+        {4, {KC_T, RSFT(KC_T), KC_G, KC_NO, 200}},	//≈«1:§µ , ≈«2:§æ , »¶µÂ:§∂
+        {5, {KC_W, RSFT(KC_W), KC_C, KC_NO, 200}},	//≈«1:§∏ , ≈«2:§∫ , »¶µÂ:§π
+        {6, {KC_D, KC_NO, KC_A, KC_NO, 200}},	//≈«1:§∑ , ≈«2:§±
+        
+        {7, {KC_DOT, KC_NO, KC_COMM, KC_NO, 200}},	//≈«1:. , ≈«2:,
+        {8, {RSFT(KC_SLSH), KC_NO, RSFT(KC_1), KC_NO, 200}},	//≈«1:? , ≈«2:'!'
+        
+        {9, {KC_Q, KC_NO, KC_Z, KC_NO, 200}},	//≈«1:Q , ≈«2:Z
+        {10, {KC_A, KC_C, KC_B, KC_NO, 200}},	//≈«1:A , ≈«2:B , »¶µÂ:C
+        {11, {KC_D, KC_F, KC_E, KC_NO, 200}},	//≈«1:D , ≈«2:E , »¶µÂ:F
+        {12, {KC_G, KC_I, KC_H, KC_NO, 200}},	//≈«1:G , ≈«2:H , »¶µÂ:I
+        {13, {KC_J, KC_L, KC_K, KC_NO, 200}},	//≈«1:J , ≈«2:K , »¶µÂ:L
+        {14, {KC_M, KC_O, KC_N, KC_NO, 200}},	//≈«1:M , ≈«2:N , »¶µÂ:O
+        {15, {KC_P, KC_S, KC_R, KC_NO, 200}},	//≈«1:P , ≈«2:R , »¶µÂ:S
+        {16, {KC_T, KC_V, KC_U, KC_NO, 200}},	//≈«1:T , ≈«2:U , »¶µÂ:V
+        {17, {KC_W, KC_Y, KC_X, KC_NO, 200}},	//≈«1:W , ≈«2:X , »¶µÂ:Y
+        
+        {18, {RSFT(KC_2), KC_NO, RSFT(KC_3), KC_NO, 200}},	//≈«1:@ , ≈«2:#
+        {19, {RSFT(KC_4), KC_NO, RSFT(KC_5), KC_NO, 200}},	//≈«1:$ , ≈«2:%
+        {20, {RSFT(KC_6), KC_NO, RSFT(KC_7), KC_NO, 200}},	//≈«1:^ , ≈«2:&
+        {21, {KC_MINS, KC_NO, KC_EQL, KC_NO, 200}},	//≈«1:- , ≈«2:=
+        {22, {RSFT(KC_9), KC_NO, RSFT(KC_0), KC_NO, 200}},	//≈«1:( , ≈«2:)
+        {23, {KC_LBRC, KC_NO, KC_RBRC, KC_NO, 200}},	//≈«1:[ , ≈«2:]
+        {24, {KC_SCLN, KC_NO, KC_QUOT, KC_NO, 200}},	//≈«1:; , ≈«2:'
+        
+        {25, {KC_NO, KC_NO, KC_NO, KC_NO, 200}},
+        {26, {KC_NO, KC_NO, KC_NO, KC_NO, 200}},
+        {27, {KC_NO, KC_NO, KC_NO, KC_NO, 200}},
+        {28, {KC_NO, KC_NO, KC_NO, KC_NO, 200}},
+        {29, {KC_NO, KC_NO, KC_NO, KC_NO, 200}},
+        {30, {KC_NO, KC_NO, KC_NO, KC_NO, 200}},
+        {31, {KC_NO, KC_NO, KC_NO, KC_NO, 200}}
+    };
+
+    for (int i = 0; i < sizeof(td_entries) / sizeof(td_entries[0]); i++) {
+        dynamic_keymap_set_tap_dance(td_entries[i].index, &td_entries[i].entry);
+    }
+}
+#endif
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 	[0] = LAYOUT( // ≥—∆–µÂ 
