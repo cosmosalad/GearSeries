@@ -3,7 +3,7 @@
 # Gearpad<br/>
 Gearpad is a 20% korean(천지인) numberpad keyboard based on the rp2040.
 
-[천지인 연습 사이트](https://cosmosalad.github.io/gearpad/)
+[천지인 연습 사이트](https://cosmosalad.github.io/onekeytype/gearpad)
 
 <br/>
 
