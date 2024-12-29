@@ -12,8 +12,4 @@ Gear40 is an RP2040-based split keyboard.
   <img src="img/gear40_choc02.jpg"/>
 </p>
 
-<p align="center">
-  <img src="img/case_01.png" style="width: 98%;"/>
-</p>
-
 <br/><br/>
