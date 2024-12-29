@@ -6,7 +6,7 @@ Gear Keyboards is based on the rp2040.
 <br/><br/>
 
 ## Gear80<br/>
-[Gear80](https://github.com/cosmosalad/Gear80)<br/>
+[▶ Explore Gear80 on GitHub](https://github.com/cosmosalad/Gear80)<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cosmosalad/Gear80/main/img/gear80_wkl_cnc01.jpg" style="width: 25%;"/>
@@ -31,7 +31,7 @@ Gear Keyboards is based on the rp2040.
 
 
 ## Gear60<br/>
-[Gear60](https://github.com/cosmosalad/Gear60)<br/>
+[▶ Explore Gear60 on GitHub](https://github.com/cosmosalad/Gear60)<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cosmosalad/Gear60/main/img/split_hhkb1.jpg" style="width: 49%;"/>
@@ -51,7 +51,7 @@ Gear Keyboards is based on the rp2040.
 
 
 ## Gearpad<br/>
-[Gearpad](https://github.com/cosmosalad/GearSeries/tree/main/Gearpad)<br/>
+[▶ Explore Gearpad on GitHub](https://github.com/cosmosalad/GearSeries/tree/main/Gearpad)<br/>
 
 <p align="center">
   <img src="Gearpad/img/gearpad_01.jpg" style="width: 41%;"/>  
