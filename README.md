@@ -14,9 +14,6 @@ Gear Keyboards is based on the rp2040.
 
   <img src="https://raw.githubusercontent.com/cosmosalad/Gear80/main/img/gear80_wkl_cnc03.jpg" style="width: 30%;"/>  
   <img src="https://raw.githubusercontent.com/cosmosalad/Gear80/main/img/gear80_wkl_cnc04.jpg" style="width: 67%;"/>
-
-  <img src="https://raw.githubusercontent.com/cosmosalad/Gear80/main/img/gear80_wkl_cnc06.jpg" style="width: 35%;"/>  
-  <img src="https://raw.githubusercontent.com/cosmosalad/Gear80/main/img/gear80_wkl_cnc05.jpg" style="width: 62%;"/>
 </p>
 
 <p align="center">
