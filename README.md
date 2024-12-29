@@ -61,6 +61,16 @@ Gear Keyboards is based on the rp2040.
   </a>
 </p>
 
+<br/><br/>
+
+
+## Gear40(Split Keyboard)<br/>
+[▶ Check Out Gear40](https://github.com/cosmosalad/GearSeries/tree/main/Gear40)<br/>
+
+<p align="center">
+  <img src="Gear40/img/gear40_choc02.jpg"/>  
+</p>
+
 
 
 
