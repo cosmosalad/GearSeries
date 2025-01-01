@@ -78,13 +78,13 @@ Gear Keyboards is based on the rp2040.
 [▶ Check Out Gear80-M](https://github.com/cosmosalad/GearSeries/tree/main/Gear80-M)<br/>
 
 <p align="center">
-  <img src="Gear80-M/img/gear80m_01.jpg" style="width: 33%;"/>
-  <img src="Gear80-M/img/gear80m_02.jpg" style="width: 33%;"/>
-  <img src="Gear80-M/img/gear80m_03.jpg" style="width: 33%;"/>
+  <img src="Gear80-M/img/gear80m_01.jpg" style="width: 25%;"/>
+  <img src="Gear80-M/img/gear80m_02.jpg" style="width: 25%;"/>
+  <img src="Gear80-M/img/gear80m_03.jpg" style="width: 25%;"/>
   <br/>
-  <img src="Gear80-M/img/gear80m_04.jpg" style="width: 33%;"/>
-  <img src="Gear80-M/img/gear80m_05.jpg" style="width: 33%;"/>
-  <img src="Gear80-M/img/gear80m_06.jpg" style="width: 33%;"/>
+  <img src="Gear80-M/img/gear80m_04.jpg" style="width: 25%;"/>
+  <img src="Gear80-M/img/gear80m_05.jpg" style="width: 25%;"/>
+  <img src="Gear80-M/img/gear80m_06.jpg" style="width: 25%;"/>
 </p>
 
 <p align="center">
