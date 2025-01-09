@@ -3,6 +3,10 @@
 # Onekey(천지인 한손키보드)<br/>
 [보건복지부 국립재활원]천지인 형식 기반 한손 키보드
 
+[▶ 전용 자판 연습 사이트](https://cosmosalad.github.io/onekeytype/)
+
+[▶ 키 맵핑 사이트](https://vial.rocks/)
+
 <br/>
 
 - Onekey v1.0
