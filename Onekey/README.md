@@ -5,7 +5,7 @@
 
 [▶ 전용 자판 연습 사이트](https://cosmosalad.github.io/onekeytype/)
 
-[▶ 키 맵핑 사이트](https://vial.rocks/)
+[▶ 키 매핑 사이트](https://vial.rocks/)
 
 <br/>
 
