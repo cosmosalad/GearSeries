@@ -12,7 +12,7 @@
 - Onekey v1.0
 
 <p align="center">
-  <img src="img/onekey_01.jpg" style="width: 33%;"/>
-  <img src="img/onekey_02.jpg" style="width: 33%;"/>
-  <img src="img/onekey_03.jpg" style="width: 33%;"/>
+  <img src="img/onekey_01.jpg" style="width: 25%;"/>
+  <img src="img/onekey_02.jpg" style="width: 25%;"/>
+  <img src="img/onekey_03.jpg" style="width: 25%;"/>
 </p>
