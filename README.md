@@ -111,6 +111,11 @@ All Gear series keyboards are being uploaded.
   <img src="Onekey/img/onekey_03.jpg" style="width: 25%;"/>
 </p>
 
+<br/><br/>
+
+<p align="center">
+  <img src="Onekey/img/onekey_manual.png"/>
+</p>
 
 
 
