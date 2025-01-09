@@ -97,9 +97,9 @@ All Gear series keyboards are being uploaded.
 
 
 ## Onekey(천지인 한손키보드)<br/>
-[▶ Onekey 확인하러가기](https://github.com/cosmosalad/GearSeries/tree/main/Onekey)<br/>
+[▶ Onekey 확인](https://github.com/cosmosalad/GearSeries/tree/main/Onekey)<br/>
 
-[▶ 전용 타자 연습 사이트](https://cosmosalad.github.io/onekeytype/)
+[▶ 전용 자판 연습 사이트](https://cosmosalad.github.io/onekeytype/)
 
 <br/>
 
