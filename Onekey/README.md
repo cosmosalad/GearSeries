@@ -1,7 +1,7 @@
 [자작 과정(kr)](https://blog.naver.com/cosmosalad/223262540878)<br/><br/>
 
-# Onekey(천지인 한손키보드)<br/>
-[보건복지부 국립재활원]천지인 형식 기반 한손 키보드
+# Onekey(한손키보드)<br/>
+천지인 형식 기반 한손 키보드
 
 [▶ 전용 자판 연습 사이트](https://cosmosalad.github.io/onekeytype/)
 
