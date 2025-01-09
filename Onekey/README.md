@@ -16,3 +16,10 @@
   <img src="img/onekey_02.jpg" style="width: 25%;"/>
   <img src="img/onekey_03.jpg" style="width: 25%;"/>
 </p>
+
+
+<br/><br/>
+
+<p align="center">
+  <img src="img/onekey_manual.png"/>
+</p>
