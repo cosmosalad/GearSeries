@@ -74,7 +74,7 @@ All Gear series keyboards are being uploaded.
 <br/><br/>
 
 
-## Gear80-M(mini keyboad)<br/>
+## Gear80-M(mini Keyboard)<br/>
 [▶ Check Out Gear80-M](https://github.com/cosmosalad/GearSeries/tree/main/Gear80-M)<br/>
 
 <p align="center">
