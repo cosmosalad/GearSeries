@@ -1,6 +1,6 @@
 [자작 과정(kr)](https://blog.naver.com/cosmosalad/223262540878)<br/><br/>
 
-# Gear40<br/>
+# Gear40(Split Keyboard)<br/>
 Gear40 is a split keyboard based on RP2040
 
 <br/>
