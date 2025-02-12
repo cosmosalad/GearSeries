@@ -3,7 +3,7 @@
 # Onekey(한손키보드)<br/>
 천지인 형식 기반 한손 키보드
 
-[▶ 전용 자판 연습 사이트](https://cosmosalad.github.io/onekeytype/)
+[▶ 전용 자판 연습 사이트](https://m.site.naver.com/1BX3V)
 
 [▶ 키 매핑 사이트](https://vial.rocks/)
 
