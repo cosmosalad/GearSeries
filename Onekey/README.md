@@ -9,7 +9,7 @@
 
 <br/>
 
-- Onekey v1.0
+- Onekey prototype v1.0
 
 <p align="center">
   <img src="img/onekey_01.jpg" style="width: 25%;"/>
