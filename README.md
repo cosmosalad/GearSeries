@@ -19,8 +19,6 @@ All Gear series keyboards are being uploaded.
 <p align="center">
   <a href="https://youtube.com/embed/aFRDwg6jCEE?feature=shared">
     <img src="http://img.youtube.com/vi/aFRDwg6jCEE/0.jpg" alt="gear80_full foam" style=width: 40%>
-  <a href="https://youtube.com/embed/MRHb9Hr9hBU?feature=shared">
-    <img src="http://img.youtube.com/vi/MRHb9Hr9hBU/0.jpg" alt="gear80_no foam" style=width: 40%>
   </a>
 </p>
 
